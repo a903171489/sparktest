@@ -1,0 +1,1 @@
+("spark",5),("hadoop",8),("spark",4),("hadoop",85),("spark",4),("hadoop",3),("spark",7),("hadoop",8),("spark",12),("hadoop",55)
